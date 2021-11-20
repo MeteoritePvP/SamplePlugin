@@ -1,0 +1,8 @@
+name: SamplePlugin
+description: Just a sample plugin.
+main: com.meteoritepvp.sampleplugin.Main
+version: ${project.version}
+author: "MeteoritePVP: Ravenglow"
+depend: [MeteoriteAPI]
+
+
